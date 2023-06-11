@@ -18,3 +18,6 @@
 Нужно установить все необходимые библиотеки командой: `pip install -r ranking_module\\requirements.txt`
 
 Запустить модель в обвязке можно при помощи команды: `python ranking_module\\main.py`. Когда она попросить ввести название файла, есть тестовый файл для проверки, его можно написать вот так `ranking_module\\ExampleRequestAgent.xlsx`
+
+### Итоговый рейтинг: 4 - место
+https://codenrock.com/contests/aeroclub-challenge-2023#/rating/2517
